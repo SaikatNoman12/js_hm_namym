@@ -5,8 +5,6 @@
  * * (multiplication)
  * / (division)
  * % (modules)
- * ++ (increment)
- * -- (decrement)
 */
 let a = 10;
 let b = 20;
@@ -22,6 +20,7 @@ console.log(b / a);
 console.log(b % a);
 
 /** 
+ * Increment & Decrement Operator
  * Pre Increment
  * Post Increment
  * Pre Decrement
@@ -132,7 +131,7 @@ console.log(7 << 0); //--> 7
 
 console.log(7 >> 1); //--> 3
 console.log(9 >> 1); //--> 4
-console.log(7 >> 0); //--> 7
+console.log( >> 0); //--> 7
 
 console.log(12 >>> 1); //--> 6
 console.log(17 >>> 1); //--> 8
