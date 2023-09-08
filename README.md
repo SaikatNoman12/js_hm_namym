@@ -10,3 +10,7 @@
   - (011) What is JS Boolean data type.
   - (012) null VS undefined.
   - (013) JavaScript Type conversion. JavaScript Falsy values.
+  - (014) JavaScript Octal and Hexadecimal Number.
+  - (015) JavaScript Operator.
+  - (016) JavaScript Statement.
+  - (017) JavaScript math object
