@@ -14,3 +14,4 @@
   - (015) JavaScript Operator.
   - (016) JavaScript Statement.
   - (017) JavaScript math object
+  - (017) JavaScript Date.
